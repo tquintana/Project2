@@ -13,9 +13,9 @@ h1 {
 }
 
 body {
-	background: url('flag.jpg') no-repeat 50% 440px,
-				url('fireworks2.gif') no-repeat 20% 450px,
-				url('fireworks3.gif') no-repeat 80% 440px,
+	background: url('flag.jpg') no-repeat 50% 490px,
+				url('fireworks2.gif') no-repeat 20% 500px,
+				url('fireworks3.gif') no-repeat 80% 490px,
 				url('background2.jpg');
 	background-size: 20%, 10%, 10%, 100%;
 	text-align: center;
