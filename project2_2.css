@@ -95,9 +95,9 @@ a {
 	}
 	
 	div:last-of-type {
-		column-count: auto;
-		-moz-column-count: auto;
-		-webkit-column-count: auto;
+		column-count: 1;
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
 		column-width: 100%;
 		-moz-column-width: 100%;
 		-webkit-column-width: 100%;
@@ -128,9 +128,9 @@ a {
 	}
 	
 	div:last-of-type {
-		column-count: auto;
-		-moz-column-count: auto;
-		-webkit-column-count: auto;
+		column-count: 1;
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
 		column-width: 100%;
 		-moz-column-width: 100%;
 		-webkit-column-width: 100%;
