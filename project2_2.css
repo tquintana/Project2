@@ -101,3 +101,34 @@ a {
 		-webkit-column-gap: none;
 	}
 }
+
+@media screen and (orientation: portrait){
+	h1 {
+		box-shadow: none;
+		padding: 2px;
+	}
+	
+	body {
+		background: none;
+		background-color: moccasin;
+	}
+	
+	a {
+		font-size: 22px;
+		padding-bottom: 10px;
+	}
+	
+	p {
+		font-family: none;
+		font-size: 17px;
+	}
+	
+	div:last-of-type {
+		column-count: 1;
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
+		column-gap: none;
+		-moz-column-gap: none;
+		-webkit-column-gap: none;
+	}
+}
