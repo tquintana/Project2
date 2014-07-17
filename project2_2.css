@@ -93,6 +93,15 @@ a {
 		font-size: 17px;
 		text-align: center;
 	}
+	
+	div:last-of-type {
+		column-count: auto;
+		-moz-column-count: auto;
+		-webkit-column-count: auto;
+		column-gap: auto;
+		-moz-column-gap: auto;
+		-webkit-column-gap: auto;
+	}
 }
 
 @media screen and (orientation: portrait){
@@ -116,5 +125,14 @@ a {
 		font-family: none;
 		font-size: 17px;
 		text-align: center;
+	}
+	
+	div:last-of-type {
+		column-count: auto;
+		-moz-column-count: auto;
+		-webkit-column-count: auto;
+		column-gap: auto;
+		-moz-column-gap: auto;
+		-webkit-column-gap: auto;
 	}
 }
