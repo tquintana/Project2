@@ -98,9 +98,6 @@ a {
 		column-count: 1;
 		-moz-column-count: 1;
 		-webkit-column-count: 1;
-		column-gap: none;
-		-moz-column-gap: none;
-		-webkit-column-gap: none;
 	}
 }
 
@@ -131,8 +128,5 @@ a {
 		column-count: 1;
 		-moz-column-count: 1;
 		-webkit-column-count: 1;
-		column-gap: none;
-		-moz-column-gap: none;
-		-webkit-column-gap: none;
 	}
 }
